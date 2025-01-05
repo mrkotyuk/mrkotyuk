@@ -1,1 +1,1 @@
-<img src="./assets/img.gif" alt="" height="512" width="512">
+<img src="./assets/img.gif" alt="" height="256" width="256">
