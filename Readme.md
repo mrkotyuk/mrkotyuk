@@ -1,1 +1,1 @@
-![Divider](/assets/img.gif)
+<img src="./assets/img.gif" alt="" width="512">
