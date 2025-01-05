@@ -1,1 +1,3 @@
-<img src="./assets/img.gif" alt="" width="512" style="display: block; margin: auto;">
+<div align="center">
+<img src="./assets/img.gif" alt="" width="400">
+</div>
